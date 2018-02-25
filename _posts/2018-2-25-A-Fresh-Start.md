@@ -17,6 +17,6 @@ There are a lot of sources online and I am very thankful to the authors for givi
 
 I'm thinking of contributing to those sources and share my experiences as a developer. _I would rather be the one who shares his food than someone who makes himself obese._
 
-I think that's it for now. Maybe the next post will be a technical one. This post is to get me started with markdown blogging. Thanks for reading.
+I think that's it for now. Maybe the next post will be a technical one. This post is just to get me started with markdown blogging. Thanks for reading.
 
 PS Please excuse any grammatical errors
