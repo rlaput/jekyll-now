@@ -15,6 +15,8 @@ or even guides like
 
 There are a lot of sources online and I am very thankful to the authors for giving me ideas to get the job done.
 
-I'm thinking of contributing to those sources and share my experiences as a developer. _I would rather be the one who shares his food rather than someone who makes himself obese._
+I'm thinking of contributing to those sources and share my experiences as a developer. _I would rather be the one who shares his food than someone who makes himself obese._
 
 I think that's it for now. Maybe the next post will be a technical one. This post is to get me started with markdown blogging. Thanks for reading.
+
+PS Please excuse any grammatical errors
