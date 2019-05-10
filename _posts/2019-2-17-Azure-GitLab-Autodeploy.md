@@ -18,7 +18,7 @@ As you can see in the image above, GitLab is not in the choices. We will be usin
 
 ## Generating SSH Key From Kudu
 
-In you Azure portal, click on your App Service and scroll down to *Development Tools* option group. Choose *Advanced Tools* and click *Go*.
+In your Azure portal, click on your App Service and scroll down to *Development Tools* option group. Choose *Advanced Tools* and click *Go*.
 
 ![alt text](/images/azuregitlabautodeploy/img2.png "App Service Menu")
 
